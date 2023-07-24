@@ -7,8 +7,8 @@ env:
   SPINNAKER_VERSION: 1.31.0
   #REGISTRY_URL: "gcr.io/spinnaker-marketplace/"
   REGISTRY_URL: "us-docker.pkg.dev/spinnaker-community/docker/"
-  NEW_REGISTRY_URL: "swr.cn-south-1.myhuaweicloud.com/jiashu"
-  NEW_REGISTRY_URL2: "swr.cn-south-1.myhuaweicloud.com/jiashu"
+  NEW_REGISTRY_URL: "swr.cn-south-1.myhuaweicloud.com/jiashu/"
+  NEW_REGISTRY_URL2: "swr.cn-south-1.myhuaweicloud.com/jiashu/"
   TAG_FILE: "tagfile.txt"
   BOM_DIR: ".boms"
   
